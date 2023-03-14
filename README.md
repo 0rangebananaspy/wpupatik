@@ -1,0 +1,2 @@
+# wpupatik
+Static website SGS
